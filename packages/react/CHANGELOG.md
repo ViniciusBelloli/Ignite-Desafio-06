@@ -1,5 +1,11 @@
 # @vbl-ui/react
 
+## 3.0.0
+
+### Major Changes
+
+- Add toast and tooltip
+
 ## 2.0.1
 
 ### Patch Changes
